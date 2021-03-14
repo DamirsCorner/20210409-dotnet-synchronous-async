@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronousAsync.Lib", "SynchronousAsync.Lib\SynchronousAsync.Lib.csproj", "{767AAD6D-DB46-4E17-99EC-91C2AAD065B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronousAsync.Tests", "SynchronousAsync.Tests\SynchronousAsync.Tests.csproj", "{21FAB9DB-1763-4B74-95E4-1EDCB06E00DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767AAD6D-DB46-4E17-99EC-91C2AAD065B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767AAD6D-DB46-4E17-99EC-91C2AAD065B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767AAD6D-DB46-4E17-99EC-91C2AAD065B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767AAD6D-DB46-4E17-99EC-91C2AAD065B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FAB9DB-1763-4B74-95E4-1EDCB06E00DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FAB9DB-1763-4B74-95E4-1EDCB06E00DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FAB9DB-1763-4B74-95E4-1EDCB06E00DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FAB9DB-1763-4B74-95E4-1EDCB06E00DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4475BAEC-DA1B-482C-86AF-28A3C15475BF}
+	EndGlobalSection
+EndGlobal
